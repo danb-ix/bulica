@@ -4,7 +4,7 @@
 
 # Hello from the dev team! 👋🙋‍♂️
 
-Bulica is a bot designed by 2 kids (DJ Pixel and Church Dude) to be an adventure into the world of the Discord API. After getting hosting sorted, Bulica is now ready to be released into the world, like some weird virtual Pokemon.
+Bulica is a bot designed by DJ Pixel to be an adventure into the world of the Discord API. After getting hosting sorted, Bulica is now ready to be released into the world, like some weird virtual Pokemon.
 
 
 ### Can I invite the bot?
@@ -25,4 +25,4 @@ Self-hosting is **not** recommended as you will not receive support if you manag
 If you have any further questions about this bot, its functionality or how to use this bot, you can find our support server [here](https://discord.gg/JE6kqwYsf9). If all fails, you can send a DM to DJ Pixel#0140 on discord and he will respond as soon as possible.
 
 
-### Made by [DJ Pixel#0140 and Church Dude#1088](https://discord.com/invite/JE6kqwYsf9)
+### Made by [DJ Pixel#0140](https://discord.com/invite/JE6kqwYsf9)
